@@ -18,4 +18,5 @@ I'm an aspiring software developer that is passionate about learning and creativ
 - One day creating my own video game: Godot
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jivvyjams)]
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jivvyjams&theme=gruvbox)](https://git.io/streak-stats)
