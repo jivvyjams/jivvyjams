@@ -17,6 +17,6 @@ I'm an aspiring software developer that is passionate about [SOMETHING]
 - Networking basics for homelab shenanigans: Docker, Proxmox, Kubernetes
 - One day creating my own video game: Godot
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jivvyjams)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jivvyjams&theme=gruvbox)](https://git.io/streak-stats)
