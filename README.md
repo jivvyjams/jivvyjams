@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=01111001+01101111+)](https://git.io/typing-svg)
 
-
-I'm an aspiring software developer that is passionate about [SOMETHING]
+Hi, my name is Jawad.
+I'm an aspiring software developer that is passionate about learning and creativity.
 
 ## My interests include:
 - Open-source software
