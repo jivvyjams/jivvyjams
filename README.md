@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=01111001+01101111+)](https://git.io/typing-svg)
 
 Hi, my name is Jawad.
-I'm an aspiring software developer that is passionate about learning and creativity.
+I'm an aspiring full stack software developer that is passionate about learning and creativity.
 
 ## My interests include:
 - Open-source software
@@ -11,11 +11,11 @@ I'm an aspiring software developer that is passionate about learning and creativ
 - Tinkering with every device I get my hands on
 
 ## Learning goals:
-- Becoming a proficient full stack developer
 - Web development: HTML, CSS
-- Picking up a programming language (or two): JavaScript, Python, C
+- Scripting for task automation: Bash, JavaScript
+- Picking up a programming language (or two): Python, C
 - Networking basics for homelab shenanigans: Docker, Proxmox, Kubernetes
-- One day creating my own video game: Godot
+- One day creating my own video game: Godot, GDScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jivvyjams)]
 
