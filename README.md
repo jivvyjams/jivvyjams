@@ -11,7 +11,8 @@ I'm an aspiring full stack software developer that is passionate about learning 
 - Tinkering with every device I get my hands on
 
 ## Tech Stack:
-<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />- TypeScript
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+- TypeScript
 - HTML
 - CSS
 - React
