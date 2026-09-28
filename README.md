@@ -10,13 +10,14 @@ I'm an aspiring full stack software developer that is passionate about learning 
 - Music production
 - Tinkering with every device I get my hands on
 
-## Learning goals:
-- Web development: HTML, CSS
-- Scripting for task automation: Bash, JavaScript
-- Picking up a programming language (or two): Python, C
-- Networking basics for homelab shenanigans: Docker, Proxmox, Kubernetes
-- One day creating my own video game: Godot, GDScript
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jivvyjams)]
+## Tech Stack:
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- React
+- Next.js
+- Vite
+- Tailwind CSS
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jivvyjams&theme=gruvbox)](https://git.io/streak-stats)
