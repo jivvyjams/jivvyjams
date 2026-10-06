@@ -1,6 +1,6 @@
 #### Hello, world! 👋
 
-I'm Jawad, a self-taught frontend developer based in the Netherlands focused on creating unique projects with React, TypeScript and CSS.
+I'm Jawad, a frontend developer based in the Netherlands focused on creating unique projects with React, TypeScript and CSS.
 
 I'm a curious individual that enjoys learning through hands-on projects, exploring open-source software, and tinkering with technology. Outside of programming, you'll either find me spending hours ricing my Linux desktop or making music.
 
@@ -8,34 +8,39 @@ Feel free to reach out and connect! 😄
 
 <hr />
 
-##### Core Tools
-![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black)
-![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01.svg?style=for-the-badge&logo=alacritty&logoColor=white)
-![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### Core Tools
+![Arch](https://img.shields.io/badge/arch-3094FF?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/hyprland-3094FF?style=for-the-badge&logo=hyprland&logoColor=white)
+![Zsh](https://img.shields.io/badge/zsh-3094FF?style=for-the-badge&logo=zsh&logoColor=white)
+![Alacritty](https://img.shields.io/badge/alacritty-3094FF?style=for-the-badge&logo=alacritty&logoColor=white)
+![VSCodium](https://img.shields.io/badge/vscodium-3094FF?style=for-the-badge&logo=vscodium&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-3094FF?style=for-the-badge&logo=neovim&logoColor=white)
+![Obsidian](https://img.shields.io/badge/obsidian-3094FF.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/git-3094FF?style=for-the-badge&logo=git&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/nextcloud-3094FF?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Tmux](https://img.shields.io/badge/tmux-3094FF?style=for-the-badge&logo=tmux&logoColor=white)
 
-##### Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23192a32.svg?style=for-the-badge&logo=prettier&logoColor=dc524a)
+#### Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-0FBF3E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-0FBF3E?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-0FBF3E?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-0FBF3E?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/react-0FBF3E?style=for-the-badge&logo=react&logoColor=white)
+![Next JS](https://img.shields.io/badge/next-0FBF3E?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-0FBF3E?style=for-the-badge&logo=vite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-0FBF3E?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-0FBF3E?style=for-the-badge&logo=npm&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-0FBF3E?style=for-the-badge&logo=prettier&logoColor=white)
 
-##### Creative Suite
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-%23657D8B.svg?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-%23e0e0e0.svg?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Aseprite](https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+#### Creative Suite
+![Figma](https://img.shields.io/badge/figma-8534F3?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-8534F3?style=for-the-badge&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/inkscape-8534F3?style=for-the-badge&logo=inkscape&logoColor=white)
+![Aseprite](https://img.shields.io/badge/aseprite-8534F3?style=for-the-badge&logo=Aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-8534F3?style=for-the-badge&logo=blender&logoColor=white)
+![Audacity](https://img.shields.io/badge/audacity-8534F3?style=for-the-badge&logo=audacity&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-8534F3?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/godotengine-8534F3?style=for-the-badge&logo=godotengine&logoColor=white)
 
 <hr />
 
