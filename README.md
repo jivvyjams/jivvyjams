@@ -8,7 +8,7 @@ Feel free to reach out and connect! 😄
 
 <hr />
 
-#### Core Tools
+##### Core Tools
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black)
 ![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01.svg?style=for-the-badge&logo=alacritty&logoColor=white)
@@ -16,7 +16,7 @@ Feel free to reach out and connect! 😄
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### Tech Stack
+##### Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +28,7 @@ Feel free to reach out and connect! 😄
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23192a32.svg?style=for-the-badge&logo=prettier&logoColor=dc524a)
 
-#### Creative Suite
+##### Creative Suite
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-%23657D8B.svg?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-%23e0e0e0.svg?style=for-the-badge&logo=inkscape&logoColor=080A13)
@@ -36,3 +36,33 @@ Feel free to reach out and connect! 😄
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+
+<hr />
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jivvyjams&theme=transparent&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github-stats-extended.vercel.app/api?username=jivvyjams&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent">
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=jivvyjams&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+          alt="Jivvy's GitHub statistics"
+        />
+      </a>
+    </td>
+	<td align="center">
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=jivvyjams&layout=compact&langs_count=6&hide_border=true&theme=transparent">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=jivvyjams&layout=compact&langs_count=6&hide_border=true&theme=transparent"
+          alt="Most commonly used programming languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
