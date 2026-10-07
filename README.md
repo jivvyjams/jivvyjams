@@ -25,7 +25,7 @@ Feel free to reach out and connect! 😄
 ![TypeScript](https://img.shields.io/badge/TypeScript-0FBF3E?&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-0FBF3E?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0FBF3E?&logo=css&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0FBF3E?&logo=tailwind&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0FBF3E?&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-0FBF3E?&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-0FBF3E?&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-0FBF3E?&logo=vite&logoColor=white)
