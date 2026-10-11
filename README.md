@@ -44,6 +44,12 @@ Feel free to reach out and connect! 😄
 ![Godot Engine](https://img.shields.io/badge/Godot-8534F3?&logo=godotengine&logoColor=white)
 
 <hr />
+<details>
+<summary>
+
+#### GitHub Stats
+
+</summary>
 
 <table align="center">
   <tr>
@@ -61,7 +67,7 @@ Feel free to reach out and connect! 😄
         />
       </a>
     </td>
-	<td align="center">
+   <td align="center">
       <a href="https://github-stats-extended.vercel.app/api/top-langs?username=jivvyjams&layout=compact&langs_count=6&hide_border=true&theme=transparent">
         <img
           src="https://github-stats-extended.vercel.app/api/top-langs?username=jivvyjams&layout=compact&langs_count=6&hide_border=true&theme=transparent"
@@ -71,4 +77,4 @@ Feel free to reach out and connect! 😄
     </td>
   </tr>
 </table>
-
+</details>
