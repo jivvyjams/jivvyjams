@@ -49,32 +49,3 @@ Feel free to reach out and connect! 😄
 
 #### GitHub Stats
 
-</summary>
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jivvyjams&theme=transparent&hide_border=true" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github-stats-extended.vercel.app/api?username=jivvyjams&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent">
-        <img
-          src="https://github-stats-extended.vercel.app/api?username=jivvyjams&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
-          alt="Jivvy's GitHub statistics"
-        />
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=jivvyjams&layout=compact&langs_count=6&hide_border=true&theme=transparent">
-        <img
-          src="https://github-stats-extended.vercel.app/api/top-langs?username=jivvyjams&layout=compact&langs_count=6&hide_border=true&theme=transparent"
-          alt="Most commonly used programming languages"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
